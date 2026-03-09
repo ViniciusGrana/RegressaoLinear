@@ -24,3 +24,4 @@ O projeto demonstra o ciclo de vida básico de um modelo de Machine Learning:
 ## 🎓 Contexto Acadêmico
 
 Este repositório é um exemplo prático de aplicação de **Estatística** e **Machine Learning** na formação em **Ciência de Dados (SENAI)**, demonstrando competência em modelagem preditiva.
+
